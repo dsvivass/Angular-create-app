@@ -22,6 +22,8 @@ Luego el formato de stylesheet, en el cual seleccionamos CSS.
 
 ## Install bootstrap
 
+Be sure to install it on the root folder:
+
 ```
 npm install --save bootstrap
 ```
